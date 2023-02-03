@@ -1,3 +1,6 @@
+#Name: Rthvik Raviprakash
+#Email: rthvik.07@gmail.com
+
 import pandas as pd
 import numpy as np
 from numpy import random
