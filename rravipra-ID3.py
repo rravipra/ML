@@ -1,7 +1,6 @@
 ##############
 # Name: Rthvik Raviprakash
-# email: rravipra@purdue.edu
-# Date: 10/17/2020
+# email: rthvik.07@gmail.com
 
 import numpy as np
 import pandas as pd
