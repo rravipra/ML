@@ -31,7 +31,7 @@ def infor_gain(before_split_freqs, after_split_freqs):
     gain(D, A) = entropy(D) - SUM ( |Di| / |D| * entropy(Di) )
     ">>> infor_gain([9,5], [[2,2],[4,2],[3,1]])
     0.02922
-    """
+    """ 
     gain = entropy(before_split_freqs)
     overall_size = sum(before_split_freqs)
     if not overall_size == 0:
